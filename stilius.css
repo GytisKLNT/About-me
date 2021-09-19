@@ -1,0 +1,117 @@
+.Gytis{
+  float:left;
+  margin: 30px;
+  margin-left: 100px;
+  border-radius: 50%
+
+
+
+
+}
+body{
+  background: linear-gradient(to right, #2c3e50, #4ca1af);
+margin-left: 30px;
+margin-right: 30px;
+
+}
+h1{
+  color: white;
+   font-family:Rubik ;
+   font-size: 60px;
+   margin-top: 200px;
+ }
+   h3{
+     color: white;
+      font-family:Rubik ;
+}
+
+li{
+  color: white;
+  font-family: Poppins;
+  font-size: 20px;
+
+}
+p{
+color: white;
+font-family: Poppins;
+font-size: 20px;
+
+}
+
+a {
+color: white;
+font-family: Georgia, serif;
+font-size: 20px;
+
+}
+
+.gif {
+  width: 175px;
+  height: 150px;
+}
+.facebook{
+  width: 50px;
+}
+.instagram{
+  width: 50px;
+}
+
+h2{
+  color: white;
+   font-family: Rubik;
+   font-size: 40px;
+  
+
+}
+
+.face{
+
+  margin: 20px;
+}
+.insta{
+
+margin: 20px;
+
+}
+.rodykle{
+float: right;
+
+}
+.vardas{
+  display: inline-flex;
+  border-bottom: solid 10px white;
+  width: 100%;
+
+
+}
+.content{
+  color: white;
+  display: inline-flex;
+  margin: 30px;
+  text-align: center;
+  image-align: center;
+}
+.para{
+  margin-right: 15px;
+  padding: 10px;
+  border: solid 3px white;
+  border-radius: 30px;
+
+}
+.list{
+  margin-left: 15px;
+  padding: 10px;
+  border: solid 3px white;
+  border-radius: 30px;
+  font-size: 20px;
+
+}
+.susisiek{
+  display: inline-flex;
+
+}
+.email{
+  margin-left: 100px;
+  float: right;
+  color: white;
+}
