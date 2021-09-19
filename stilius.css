@@ -108,6 +108,8 @@ float: right;
 }
 .susisiek{
   display: inline-flex;
+    margin: 30px;
+  margin-bottom: 50px;
 
 }
 .email{
